@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.bxj.viewdispatchevent.OuterViewGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.bxj.viewdispatchevent.InnerViewGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <com.bxj.viewdispatchevent.MyView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </com.bxj.viewdispatchevent.MyView>
+    </com.bxj.viewdispatchevent.InnerViewGroup>
+</com.bxj.viewdispatchevent.OuterViewGroup>
